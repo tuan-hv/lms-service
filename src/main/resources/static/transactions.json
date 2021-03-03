@@ -1,0 +1,11 @@
+ {
+    "_id": "string",
+    "name": "string(cashin|cashout|interbank|intranlbank)",
+    "mark": "number",
+    "ft": "string",
+    "created": "date"
+}
+
+sample:
+
+{"name":"cashout", "mark":"transfer from ewallet 768768 to 8989898", "ft":"FT466688999", "status":"pending", created"": new Date()}

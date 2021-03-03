@@ -1,0 +1,8 @@
+# With basic SQL clause and crud functions, Springboot can serve simply. But with business relate many table or special clasue (HAVING, GROUP), 
+# we should use Native SQL for. 
+# Define sql clause has complexity.
+  
+select blah, blah1, blah2 
+from table1 t1 
+join table 2 t2
+on t1.id=t2.idd

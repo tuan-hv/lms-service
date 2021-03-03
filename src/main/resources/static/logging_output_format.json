@@ -1,0 +1,9 @@
+{
+  "@timestamp": "2020-10-15T18:07:58.540+07:00",
+  "@version": "1",
+  "message": "Initializing ProtocolHandler [\"http-nio-20200\"]",
+  "logger_name": "org.apache.coyote.http11.Http11NioProtocol",
+  "thread_name": "main",
+  "level": "INFO",
+  "level_value": 20000
+}
